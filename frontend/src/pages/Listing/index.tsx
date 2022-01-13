@@ -1,4 +1,3 @@
-import { ReactComponent as Arrow } from 'assets/img/arrow.svg';
 import MovieCard from 'components/MovieCard';
 import Pagination from 'components/Pagination';
 
